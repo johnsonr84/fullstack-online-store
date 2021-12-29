@@ -1,4 +1,3 @@
-# fullstack-online-music-store
 <h1 align="center"><a href="https://github.com/johnsonr84/fullstack-online-store">🥁 🎸 Full Stack Online Music Store 🎹 🎤</a></h1>
 
 ## Description
