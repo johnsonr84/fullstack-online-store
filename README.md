@@ -1,9 +1,9 @@
-# fullstack-online-store
-<h1 align="center"><a href="https://github.com/johnsonr84/fullstack-online-store">Full Stack Online Store 👟 </a></h1>
+# fullstack-online-music-store
+<h1 align="center"><a href="https://github.com/johnsonr84/fullstack-online-store">🥁 🎸 Full Stack Online Music Store 🎹 🎤</a></h1>
 
 ## Description
 
-Full Stack Online Store - Online Store (Search, Sell, Add to Cart and Checkout) built with MongoDB, ExpressJS, ReactJS and NodeJs. The store feature several types of everyday items to purchase. 
+Full Stack Online Music Store - A rocking music store (Search, Sell, Add to Cart and Checkout) selling some of the hottest music gear around. The app is built with MongoDB, ExpressJS, ReactJS and NodeJs. The store feature several types of everyday items to purchase. 
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/threadz-n-treads?color=orange)](https://github.com/johnsonr84/fullstack-online-store)
